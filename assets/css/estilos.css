@@ -43,8 +43,8 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul,li,
 }
 
 :root{
-    --corBackgroundPrimaria: #45dbfc;
-    --corBackgroundSecundaria: #04133d;
+    --corBackgroundPrimaria: #4db05d;
+    --corBackgroundSecundaria: #013609;
     --corBackgroundDark: #0e0e0e;
     --corTextPrimaria: #636363;
     --corTextSecundaria: #000;
